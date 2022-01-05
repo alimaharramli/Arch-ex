@@ -1,4 +1,4 @@
-# Arch-ex-
+# Arch-ex
 Arch(ex) - Archive and Extract
 Arch(ex) is a simple tool for compression.
 With the help of this tool, you can create compressed archives, set passwords to the archives and extract files from them.
