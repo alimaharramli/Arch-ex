@@ -4,7 +4,7 @@ Arch(ex) is a simple tool for compression.
 With the help of this tool, you can create compressed archives, set passwords to the archives and extract files from them.
 Compression ratio depends on file types and for some files it is not advised to archive them unless you want to set password.
 # Dependencies
-C++17(for filesystem libary)
+C++17(for filesystem library)
 
 GTKMM-3.0
 
