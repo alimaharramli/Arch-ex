@@ -300,7 +300,7 @@ int main(int argc, char **argv){
     auto ch = Gtk::CheckButton("Custom file extension");
     ch.set_name("Custom file extension");
     ch.signal_toggled().connect(sigc::bind(sigc::ptr_fun(&disableEntry),&ch,&ent));
-    ent.set_placeholder_text("Default: *.compressed ");
+    ent.set_placeholder_text("Default: .cmp ");
     box4.pack_start(ch,0,0,0);
     box4.pack_start(ent);
     
